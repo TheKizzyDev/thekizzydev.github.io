@@ -1,4 +1,12 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://blog.kizzy.dev/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'The Kizzy Dev'
 theme = 'hugo-bearcub'
+copyright = "Kizzy Dev (CC BY SA 4.0)"
+[languages]
+	[languages.en]
+	languageName = "en-US us"
+	LanguageCode = "en-US"
+	contentDir = "content"
+	[languages.en.params]
+		madeWith = "Made with [Bear Cub](https://github.com/clente/hugo-bearcub)"

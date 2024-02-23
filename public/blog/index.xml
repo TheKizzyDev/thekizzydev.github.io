@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>The Kizzy Dev</title>
-    <link>http://localhost:1313/</link>
-    <description>Recent content on The Kizzy Dev</description>
+    <title>Blog on The Kizzy Dev</title>
+    <link>http://localhost:1313/blog/</link>
+    <description>Recent content in Blog on The Kizzy Dev</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <copyright>Kizzy Dev (CC BY SA 4.0)</copyright>
     <lastBuildDate>Thu, 22 Feb 2024 22:19:08 -0800</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Setting up GDScript Formatter in VSCode under Windows 11</title>
-      <link>http://localhost:1313/docs/setting_up_gdscript_formatter_in_vscode_under_windows_11/</link>
+      <link>http://localhost:1313/blog/setting_up_gdscript_formatter_in_vscode_under_windows_11/</link>
       <pubDate>Thu, 22 Feb 2024 22:19:08 -0800</pubDate>
-      <guid>http://localhost:1313/docs/setting_up_gdscript_formatter_in_vscode_under_windows_11/</guid>
+      <guid>http://localhost:1313/blog/setting_up_gdscript_formatter_in_vscode_under_windows_11/</guid>
       <description>Install python 3.12+.&#xA;Install python-setuptools. In Windows Powershell, run: pip install setuptools&#xA;Install gdtoolkit in Windows Powershell by running: pip install &amp;quot;gdtoolkit==4.*&amp;quot;&#xA;If using Godot 3.*, run: pip install &amp;quot;gdtoolkit==3.*&amp;quot;&#xA;Install vscode.&#xA;Go to View &amp;gt; Extensions. Install the following:&#xA;Python GDScript Formatter by Razoric Open the settings.json by pressing, Ctrl + Shift + P, and typing Open User Settings.&#xA;Click on, Preferences: Open User Settings (JSON).&#xA;Add the following entries:</description>
       <content:encoded><![CDATA[<ol>
 <li>
