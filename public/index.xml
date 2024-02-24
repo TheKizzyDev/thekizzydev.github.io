@@ -65,5 +65,36 @@
 </ol>
 ]]></content:encoded>
     </item>
+    <item>
+      <title>Setup a Perforce Client for Unreal Engine</title>
+      <link>http://localhost:1313/docs/setup_a_perforce_client_for_unreal_engine/</link>
+      <pubDate>Fri, 23 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/docs/setup_a_perforce_client_for_unreal_engine/</guid>
+      <description>Download the Perforce Client (P4V)&#xA;Get your credentials from your administrator.&#xA;Open up the P4V client, and you should get the following window: Server: &amp;lt;server url given by admin&amp;gt;&#xA;User: &amp;lt;username given by admin&amp;gt;&#xA;Workspace: &amp;lt;user created&amp;gt;&#xA;To create your own workspace, click on New in the screen above. That will open the following screen and/or prompt you for a password: (Optional) If your administrator created a stream, click on Browse and select it.</description>
+      <content:encoded><![CDATA[<ol>
+<li>
+<p><a href="https://www.perforce.com/downloads/helix-visual-client-p4v">Download the Perforce Client (P4V)</a></p>
+</li>
+<li>
+<p>Get your credentials from your administrator.</p>
+</li>
+<li>
+<p>Open up the P4V client, and you should get the following window: <img alt="Perforce Open Connection" src="/perforce_open_connection.png">
+Server: &lt;server url given by admin&gt;</p>
+<p>User: &lt;username given by admin&gt;</p>
+<p>Workspace: &lt;user created&gt;</p>
+</li>
+<li>
+<p>To create your own workspace, click on <strong>New</strong> in the screen above. That will open the following screen and/or prompt you for a password: <img alt="Perforce New Workspace" src="/perforce_new_workspace.png"></p>
+</li>
+<li>
+<p>(Optional) If your administrator created a stream, click on <strong>Browse</strong> and select it. Then press <strong>OK</strong>.</p>
+</li>
+<li>
+<p>Click <strong>OK</strong> on the workspace screen. If everything worked, the following screen should appear: <img alt="Perforce Final Screen" src="/perforce_final_screen.png"></p>
+</li>
+</ol>
+]]></content:encoded>
+    </item>
   </channel>
 </rss>
